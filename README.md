@@ -6,9 +6,12 @@
 
   
 <h2>Github Stats </h2>
-<img src="https://github-readme-stats.vercel.app/api?username=AleGoBa&show_icons=true&theme=gotham" alt="github stats" align="left" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=AleGoBa&show_icons=true&theme=gotham" alt="github stats"  width="400pxpx"/>
+
 <h2>Github Streaks</h2>
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=AleGoBa&theme=dark" align="right" width="48%" >
+
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=AleGoBa&theme=dark"  width="400px" >
 
 <h2 > Top Languages</h2>
 

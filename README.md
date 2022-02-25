@@ -7,7 +7,7 @@
   
 <h2>Github Stats </h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=AleGoBa&show_icons=true&theme=gotham" alt="github stats"  width="400pxpx"/>
+<img src="https://github-readme-stats.vercel.app/api?username=AleGoBa&show_icons=true&theme=gotham" alt="github stats"  width="400px"/>
 
 <h2>Github Streaks</h2>
 

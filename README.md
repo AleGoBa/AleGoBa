@@ -2,8 +2,8 @@
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently developing Laravel & Vue.js apps with API Restful features.
 - 📫 Contact me: 
-  - [In LinkedIn](https://www.linkedin.com/in/david-alejandro-gonzalez-barba-/)
-  - From Email: davidalejandrogonzalezbarba@gmail.com
+  - [LinkedIn](https://www.linkedin.com/in/david-alejandro-gonzalez-barba-/)
+  - davidalejandrogonzalezbarba@gmail.com
 
 <h2>Github Stats </h2>
 

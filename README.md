@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AleGoBa
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Laravel, Vue.js, APIs
-- 📫 How to reach me [My Profile](https://www.linkedin.com/in/david-alejandro-gonzalez-barba-/)
+- 🌱 I’m currently developing Laravel & Vue.js apps with API Restful features.
+- 📫 My linkedin [My Profile](https://www.linkedin.com/in/david-alejandro-gonzalez-barba-/)
 
 
   

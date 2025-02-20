@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Mid Full Stack Developer
 ------------------------
 
-I've been building amazing web apps for the last 3 years, using Laravel and Vue. In addition I document, integrate and build APIRestful for mobile apps and third party clients. Furthermore I have develop a Gemini and Document AI PHP SDK for integrate IA in web applications.
+I've been building amazing web apps for the last 3 years, using Laravel and Vue. In addition I document, integrate and build Rest APIs for mobile apps and third party clients, and developed SDKs for seamless integration with Google AI Models.
 
 * 🌍  I'm from México.
 * ✉️  You can contact me at [davidalejandrogonzalezbarba@gmail.com](mailto:davidalejandrogonzalezbarba@gmail.com)

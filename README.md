@@ -9,7 +9,7 @@ I've been building amazing web apps for the last 3 years, using Laravel and Vue.
 * 🌍  I'm from México.
 * ✉️  You can contact me at [davidalejandrogonzalezbarba@gmail.com](mailto:davidalejandrogonzalezbarba@gmail.com)
 * 🧠  I'm learning Artificial Intelligence and Data Analaysis
-* 🤝  I'm open to collaborating on projects related to AI.
+* 🤝  I'm open to collaborate on projects related to AI and Web Development.
 * ⚡  I like spicy candies and a good salary.
 
 <a href="https://www.github.com/AleGoBa" target="_blank" rel="noreferrer"><img

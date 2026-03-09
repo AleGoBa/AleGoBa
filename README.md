@@ -1,7 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is David Alejandro
 =======================================================================================================================================
 
-Mid Full Stack Developer
+Full Stack Developer
+Technical Lead @ healf
 ------------------------
 
 I've been building amazing web apps for the last 4 years, using Laravel and Vue. In addition I document, integrate and build Rest APIs for mobile apps and third party clients, and developed SDKs for seamless integration with OpenAI and Google AI Models.

@@ -54,14 +54,11 @@ I've been building amazing web apps for the last 4 years, specializing in Larave
 
 <br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AleGoBa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AleGoBa&theme=tokyonight&hide_border=true" alt="GitHub Streaks" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleGoBa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="60%" />
-</p>
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=AleGoBa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="AleGoBa Trophies" />
+  </a>
+</div>
 
 ---
 

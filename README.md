@@ -1,19 +1,26 @@
-Hi 👋 My name is Alejandro González Barba
-=======================================================================================================================================
+<div align="center">
+  <h1>Hi 👋 My name is Alejandro González Barba</h1>
+  <h3>Full Stack Developer | Technical Lead @ healf 🚀</h3>
+</div>
 
-### Full Stack Developer | Technical Lead @ healf 🚀
-
-I've been building amazing web apps for the last 4 years, specializing in Laravel and Vue.js. As a Tech Lead, I focus on building scalable architectures, documenting and integrating REST APIs for mobile and third-party clients, and developing SDKs for seamless integration with OpenAI and Large Language Models (LLMs). I'm passionate about clean code and great UI/UX.
+I've been building amazing web apps for the last 4 years, specializing in Laravel and Vue.js. As a Tech Lead, I focus on building scalable architectures, documenting and integrating REST APIs for mobile and third-party clients, and developing SDKs for seamless integration with OpenAI and Large Language Models (LLMs). 
 
 * 🌍 I'm based in Aguascalientes, México.
 * ✉️ You can contact me at [davidalejandrogonzalezbarba@gmail.com](mailto:davidalejandrogonzalezbarba@gmail.com)
 * 🧠 I'm currently diving deep into Artificial Intelligence, LLMs, and Data Analysis.
 * 🤝 I'm open to collaborating on projects related to AI, Cloud Architecture, and Web Development.
-* ⚡ Fun fact: I love exploring the mysteries of the universe and time travel... and I won't say no to spicy candies or a good salary.
 
-<a href="https://www.github.com/AleGoBa" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/github/followers/AleGoBa?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="Followers" />
-</a>
+---
+
+### 📊 GitHub Metrics & Coding Habits
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AleGoBa/AleGoBa/main/github-metrics.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AleGoBa/AleGoBa/main/github-metrics.svg">
+    <img alt="GitHub Metrics" src="https://raw.githubusercontent.com/AleGoBa/AleGoBa/main/github-metrics.svg">
+  </picture>
+</div>
 
 ---
 
@@ -42,45 +49,20 @@ I've been building amazing web apps for the last 4 years, specializing in Larave
 
 ---
 
-### 📊 GitHub Metrics
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AleGoBa/AleGoBa/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AleGoBa/AleGoBa/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AleGoBa/AleGoBa/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=AleGoBa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="AleGoBa Trophies" />
-  </a>
-</div>
-
----
-
 ### 🌐 Connect with me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/david-alejandro-gonzalez-barba-/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" style="margin-right: 8px;" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" style="margin-right: 15px;" />
   </a>
   <a href="https://www.github.com/AleGoBa" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" style="margin-right: 8px;" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" style="margin-right: 15px;" />
   </a>
   <a href="https://www.dev.to/alegoba" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" alt="Dev.to" style="margin-right: 8px;" />
-  </a>
-  <a href="http://www.medium.com/@davidalejandrogonzalezbarba" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" alt="Medium" style="margin-right: 8px;" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" alt="Dev.to" style="margin-right: 15px;" />
   </a>
   <a href="https://discord.com/users/alegoba" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" style="margin-right: 8px;" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/davidalejandrog1" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="32" height="32" alt="HackerRank" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" style="margin-right: 15px;" />
   </a>
 </p>
+
